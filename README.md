@@ -1,42 +1,33 @@
 <h1 align="center">
-  RANEK
+  SALES WEB
 </h1>
 
 <p align="center">   
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/matheusasg09/Projeto-Ranek">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/matheusasg09/Projeto-SalesWebMVC">
   
-  <a href="https://github.com/matheusasg09/Projeto-Ranek/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/matheusasg09/Projeto-Ranek">
+  <a href="https://github.com/matheusasg09/Projeto-SalesWebMVC/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/matheusasg09/Projeto-SalesWebMVC">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
 <p align="center">
-  <img alt="Frontend" src="public/ranek-git.png" width="80%">
+  <img alt="Frontend" src="SalesWebMvc/salesWeb.png" width="80%">
 </p>
 
 ## ◾ Projeto
 
-<p>O Ranek é um Ecommerce Totalmente funcional feito com Vue.js. Foi um projeto para aprofundamento dos conhecimentos do framework.</p>
-
-#### Nele contem os seguintes conhecimentos:
-* Validção de Login;
-* Criação/Edição/Exclusão de usuário e de itens;
-* CRUD Completo com os verbos HTTP;
-* Consumo de API REST;
-* Totalmente Reativo.
-
-#### Visitar o site: [Ranek.com](https://ranek.origamid.dev/)
+O SalesWeb é um sistema de Vendas Online desenvolvido em ASP.NET Core, ele é um CRUD Completo. Este projeto foi elaborado para um aprofundamento nos conhecimentos do framework.
 
 ## ◾ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [JAVASCRIPT](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [VUE.JS](https://br.vuejs.org/index.html)
+- [ASP.NET CORE](https://docs.microsoft.com/pt-br/aspnet/core/?view=aspnetcore-3.1)
+- [.NET CORE](https://docs.microsoft.com/pt-br/dotnet/core/)
+- [MYSQL](https://dev.mysql.com/doc/)
+- [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 
 ## ◾ Licença
 

@@ -26,7 +26,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [ASP.NET CORE](https://docs.microsoft.com/pt-br/aspnet/core/?view=aspnetcore-3.1)
 - [BOOTSTRAP 4](https://getbootstrap.com/)
-- [.NET CORE](https://docs.microsoft.com/pt-br/dotnet/core/)
 - [MYSQL](https://dev.mysql.com/doc/)
 - [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 
